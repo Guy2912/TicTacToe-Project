@@ -5,7 +5,7 @@
 ##### 3.เมื่อติดตั้งเสร็จสิ้น ให้ตรวจสอบว่า JDK ได้ถูกติดตั้งเรียบร้อยแล้วโดยเปิด Command Prompt หรือ Terminal แล้วพิมพ์คำสั่ง java -version เพื่อตรวจสอบเวอร์ชันของ JDK ที่ติดตั้งไว้
 ##### 4.เมื่อติดตั้ง JDK เสร็จเรียบร้อยแล้ว คุณสามารถเริ่มเขียนโปรแกรม Java ได้โดยใช้ Text editor หรือ Integrated Development Environment (IDE) เช่น Eclipse, NetBeans, IntelliJ IDEA ซึ่งสามารถดาวน์โหลดได้จากเว็บไซต์ของผู้พัฒนาแต่ละแบบ
 ##### 5.จากนั้นให้นำ source code ใน GitHub มารันในโปรแกรมที่คุณลงไว้โดยให้รันใน class TicTacToeRunner คุณจะได้หน้าต่าง UI
-[![image][[https://ibb.co/FBXLfty.jpg](https://imgur.com/t6SPMQh)]
+[![image][[https://ibb.co/FBXLfty](https://imgur.com/t6SPMQh.jpg)]
 
 # วิธีใช้งาน
 ##### กฎเกม Tic Tac Toe มีดังนี้:
